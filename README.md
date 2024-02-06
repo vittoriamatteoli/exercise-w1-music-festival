@@ -6,11 +6,11 @@
 
 # JavaScript Variables & Datatypes Exercise
 
-In this week’s team session, you will practice JavaScript basics and work on applying the concepts we have learned throughout the week.
+In this exercise, you will practice JavaScript basics and work on applying the concepts we have learned throughout the week.
 
 ### Instructions:
 
-Take a look into the index.js file and follow the instructions to complete the exercises.
+Take a look at the `index.js` file and follow the instructions to complete the exercises.
 
 ### Hint:
 

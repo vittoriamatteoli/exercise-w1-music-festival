@@ -10,7 +10,7 @@ In this exercise, you will practice JavaScript basics and work on applying the c
 
 ### Instructions:
 
-Take a look at the `index.js` file and follow the instructions to complete the exercises.
+Take a look at the `instructions.md` and `index.js` files, follow the instructions to complete the exercise.
 
 ### Hint:
 
